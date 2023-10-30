@@ -19,13 +19,13 @@ This conversion can be useful for compatibility with software or emulators that 
 ## Installation
 
 1. Clone the repository:
-    \```bash
+    ```bash
     git clone https://github.com/andrewboudreau/ConvertIsoToBin.git
-    \```
+    ```
 2. Navigate to the project directory:
-    \```bash
+    ```bash
     cd ConvertIsoToBin
-    \```
+    ```
 
 ## Usage
 
@@ -33,17 +33,17 @@ This conversion can be useful for compatibility with software or emulators that 
 
 Run the following command:
 
-\```bash
+```bash
 dotnet run <path/to/iso/file>
-\```
+```
 
 ### Convert Multiple ISO/CUE File Pairs
 
 To batch convert ISO/CUE file pairs located in first-level subdirectories of a given directory, run:
 
-\```bash
+```bash
 dotnet run <path/to/directory>
-\```
+```
 
 ## Output
 
