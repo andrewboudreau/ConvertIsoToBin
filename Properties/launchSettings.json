@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConvertIsoToBin": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\\\Monster_Lair_(NTSC-U)_[TGXCD1003]\\Monster_Lair_(NTSC-U)_[TGXCD1003].iso"
+    }
+  }
+}
